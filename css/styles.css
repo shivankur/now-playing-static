@@ -219,9 +219,13 @@ figure {
   position: absolute;
   right: 20px;
   width: 90%;
-
-
 }
+
+.movie-overview {
+  display: inline;
+}
+
+
 
 
 }
